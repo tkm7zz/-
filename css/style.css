@@ -12,6 +12,16 @@ body {
     letter-spacing: 0.1em;
 }
 
+.fuchidori{
+  font-family:serif;
+  font-weight: bold;
+  font-size:500%;
+  color:rgba(0,0,0,.0);
+  text-align:center;
+  padding: 40px 0;
+   -webkit-text-stroke: 1px #FFF;
+}
+
 a {
     color: #333;
     text-decoration: none;
