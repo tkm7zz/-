@@ -458,7 +458,7 @@ header .site-title a {
     background-color: #161613;
     border-radius: 15px;
     border: 3px solid #161613;
-    color: #FFFFFF;
+    color: #ffffff;
     font-size: 1.75rem;
     font-weight: bold;
     display: block;
@@ -468,9 +468,9 @@ header .site-title a {
 }
 
 .entry .btn:hover {
-    background-color: #fff;
+    background-color: #ffffff;
     border: 3px solid #161613;
-    color: #161613;
+    color: #ffffff;
 }
 
 footer {
