@@ -443,6 +443,10 @@ header .site-title a {
     text-align: center;
 }
 
+.title .catchphrase {
+    color: #ffffff;
+}
+
 .entry .title {
     font-size: 2rem;
     font-weight: bold;
